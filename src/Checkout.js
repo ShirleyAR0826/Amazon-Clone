@@ -14,10 +14,12 @@ function Checkout() {
                 <div>
                     <h2 className="checkout_title">Your Shopping Basket</h2>
                 </div>
+                <div>
+
+                </div>
             </div>
             <div className="checkout__right">
                 <Subtotal/>
-
             </div>
         </div>
     )

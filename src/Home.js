@@ -12,12 +12,14 @@ function Home() {
                     alt="" />
                 <div className="home__row">
                     <Product 
+                        id='12345'
                         title='The lean startup'
                         price={29.99}
                         image='https://images-na.ssl-images-amazon.com/images/I/41+e3refnZL.jpg'
                         rating={5}
                     />
                     <Product
+                        id='56789'
                         title='Alexa Speaker Build Amazon Clone w/ Full E-Commerce + Stripe using React JS for Beginners (Challenge Day 2) | Pt3'
                         price={29.99}
                         image='https://www.powerplanetonline.com/cdnassets/amazon_echo_dot_3_gen_negro_antracita_altavoz_inteligente_alexa_01_l.jpg'
